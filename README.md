@@ -1,5 +1,7 @@
 # Software Testing Fundamentals
 
+[![Java Tests](https://github.com/singh22krishan/software-testing-fundamentals/actions/workflows/tests.yml/badge.svg)](https://github.com/singh22krishan/software-testing-fundamentals/actions/workflows/tests.yml)
+
 A clean Java testing portfolio project demonstrating **JUnit 5, black-box test design, equivalence partitioning, boundary value analysis, decision-table testing, negative testing, debugging concepts, TDD, and static analysis**.
 
 ## Portfolio Context
